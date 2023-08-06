@@ -41,7 +41,7 @@ function arxiv_search({all, author, title, abstrct, journal_ref}) {
 	}
 	baseUrl += "all:" + all;
     }
-    baseUrl += '&max_results=30'
+    baseUrl += '&max_results=80'
 
     console.log(baseUrl)
 
@@ -86,10 +86,14 @@ function arxiv_search({all, author, title, abstrct, journal_ref}) {
     return deferred.promise();
 }
 
+function custom_sort(a, b) {
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+}
+
 arxiv_search({author:'Elhamdadi+Mohamed'}).done(
     res => {
         // console.log(res)
-        fs.writeFile('publications.json', JSON.stringify(res), err => {
+        fs.writeFile('publications.json', JSON.stringify(res.sort(custom_sort), null, 4), err => {
             if(err){
                 console.log(err)
             }

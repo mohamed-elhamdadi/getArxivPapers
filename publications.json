@@ -1,1 +1,893 @@
-[{"title":"A Survey of Racks and Quandles: Some recent developments","link":"http://arxiv.org/abs/1910.07400v1","summary":"  This short survey contains some recent developments of the algebraic theory\nof racks and quandles. We report on some elements of representation theory of\nquandles and ring theoretic approach to quandles.\n","date":"2019-10-16T15:09:10Z","authors":["\n      Mohamed Elhamdadi\n    "]},{"title":"Cohomology and Formal Deformations of Left Alternative Algebras","link":"http://arxiv.org/abs/0907.1548v1","summary":"  The purpose of this paper is to introduce an algebraic cohomology and formal\ndeformation theory of left alternative algebras. Connections to some other\nalgebraic structures are given also.\n","date":"2009-07-09T13:45:31Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Abdenacer Makhlouf\n    "]},{"title":"Distributivity in Quandles and Quasigroups","link":"http://arxiv.org/abs/1209.6518v1","summary":"  Distributivity in algebraic structures appeared in many contexts such as in\nquasigroup theory, semigroup theory and algebraic knot theory. In this paper we\ngive a survey of distributivity in quasigroup theory and in quandle theory.\n","date":"2012-09-28T13:43:11Z","authors":["\n      Mohamed Elhamdadi\n      University of South Florida\n    "]},{"title":"Circular orderability and quandles","link":"http://arxiv.org/abs/2204.09458v1","summary":"  In this paper, we introduce the notion of circular orderability for quandles.\nWe show that the set all right (respectively left) circular orderings of a\nquandle is a compact topological space. We also show that the space of right\n(respectively left) orderings of a quandle embeds in its space of right\n(respectively left) circular orderings. Examples of quandles that are not left\ncircularly orderable and examples of quandles that are neither left nor right\ncircularly orderable are given.\n","date":"2022-04-20T13:43:17Z","authors":["\n      Idrissa Ba\n    ","\n      Mohamed Elhamdadi\n    "]},{"title":"Hom-quasi-bialgebras","link":"http://arxiv.org/abs/1209.0988v1","summary":"  The purpose of this paper is to give a general survey of Hom-bialgebras,\nwhich are bialgebra-type structures where the identities are twisted by a\nmorphism, and to extend the concept of quasi-bialgebra to Hom-setting. We\nprovide some key constructions and generalize the concept of gauge\ntransformation and Drinfeld's twists to this type of generalized\nquasi-bialgebras. Moreover, we provide an example of twisted quantum double.\n","date":"2012-09-05T14:06:08Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Abdenacer Makhlouf\n    "]},{"title":"Deformations of Hom-Alternative and Hom-Malcev algebras","link":"http://arxiv.org/abs/1006.2499v1","summary":"  The aim of this paper is to extend Gerstenhaber formal deformations of\nalgebras to the case of Hom-Alternative and Hom-Malcev algebras. We construct\ndeformation cohomology groups in low dimensions.\n  Using a composition construction, we give a procedure to provide deformations\nof alternative algebras (resp. Malcev algebras) into Hom-alternative algebras\n(resp. Hom-Malcev algebras). Then it is used to supply examples for which we\ncompute some cohomology invariants.\n","date":"2010-06-12T23:03:53Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Abdenacer Makhlouf\n    "]},{"title":"Foundations of the Colored Jones Polynomial of singular knots","link":"http://arxiv.org/abs/1705.02446v3","summary":"  This article gives the foundations of the colored Jones polynomial for\nsingular knots. We extend Masbum and Vogel's algorithm to compute the colored\nJones polynomial for any singular knot. We also introduce the tail of the\ncolored Jones polynomial of singular knots and use its stability properties to\nprove a false theta function identity that goes back to Ramanujan.\n","date":"2017-05-06T05:10:51Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    "]},{"title":"N-Degeneracy in rack homology and link invariants","link":"http://arxiv.org/abs/1007.3550v2","summary":"  The aim of this paper is to define a homology theory for racks with finite\nrank N and use it to define invariants of knots generalizing the CJKLS\n2-cocycle invariants related to the invariants defined in [15]. For this\npurpose, we prove that N -degenerate chains form a sub-complex of the classical\ncomplex defining rack homology. If a rack has rack rank N = 1 then it is a\nquandle and our homology theory coincides with the CKJLS homology theory [6].\nNontrivial cocycles are used to define invariants of knots and examples of\ncalculations for classical knots with up to 8 crossings and classical links\nwith up to 7 crossings are provided.\n","date":"2010-07-21T01:42:47Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Sam Nelson\n    "]},{"title":"Automorphism groups of Quandles","link":"http://arxiv.org/abs/1012.5291v1","summary":"  We prove that the automorphism group of the dihedral quandle with n elements\nis isomorphic to the affine group of the integers mod n, and also obtain the\ninner automorphism group of this quandle. In [9], automorphism groups of\nquandles (up to isomorphisms) of order less than or equal to 5 were given. With\nthe help of the software Maple, we compute the inner and automorphism groups of\nall seventy three quandles of order six listed in the appendix of [4]. Since\ncomputations of automorphisms of quandles relates to the problem of\nclassification of quandles, we also describe an algorithm implemented in C for\ncomputing all quandles (up to isomorphism) of order less than or equal to nine.\n","date":"2010-12-23T20:35:01Z","authors":["\n      M. Elhamdadi\n    ","\n      J. MacQuarrie\n    ","\n      R. Restrepo\n    "]},{"title":"Pretzel Knots and q-Series","link":"http://arxiv.org/abs/1512.00129v4","summary":"  The tail of the colored Jones polynomial of an alternating link is a\n$q$-series invariant whose first $n$ terms coincide with the first $n$ terms of\nthe $n$-th colored Jones polynomial. Recently, it has been shown that the tail\nof the colored Jones polynomial of torus knots give rise to Ramanujan type\nidentities. In this paper, we study $q$-series identities coming from the\ncolored Jones polynomial of pretzel knots. We prove a false theta function\nidentity that goes back to Ramanujan and we give a natural generalization of\nthis identity using the tail of the colored Jones polynomial of Pretzel knots.\nFurthermore, we compute the tail for an infinite family of Pretzel knots and\nrelate it to false theta function-type identities.\n","date":"2015-12-01T03:11:47Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    "]},{"title":"Knot groups, quandle extensions and orderability","link":"http://arxiv.org/abs/2307.08605v1","summary":"  This paper gives a new way of characterizing L-space $3$-manifolds by using\norderability of quandles. Hence, this answers a question of Adam Clay et al.\n[Question 1.1 of Canad. Math. Bull. 59 (2016), no. 3, 472-482]. We also\ninvestigate both the orderability and circular orderability of dynamical\nextensions of orderable quandles. We give conditions under which the\nconjugation quandle on a group, as an extension of the conjugation of a\nbi-orderable group by the conjugation of a right orderable group, is right\norderable. We also study the right circular orderability of link quandles. We\nprove that the $n$-quandle $Q_n(L)$ of the link quandle of $L$ is not right\ncircularly orderable and hence it is not right orderable. But on the other\nhand, we show that there are infinitely many links for which the $p$-enveloping\ngroup of the link quandle is right circularly orderable for any prime integer\n$p$.\n","date":"2023-07-17T16:14:52Z","authors":["\n      Idrissa Ba\n    ","\n      Mohamed Elhamdadi\n    "]},{"title":"Deformations of Yang-Baxter operators via $n$-Lie algebra cohomology","link":"http://arxiv.org/abs/2207.13156v2","summary":"  We introduce a cohomology theory of $n$-ary self-distributive objects in the\ntensor category of vector spaces that classifies their infinitesimal\ndeformations. For $n$-ary self-distributive objects obtained from $n$-Lie\nalgebras we show that ($n$-ary) Lie cohomology naturally injects in the\nself-distributive cohomology and we prove, under mild additional assumptions,\nthat the map is an isomorphism of second cohomology groups. This shows that the\nself-distribuitve deformations are completely classified by the deformations of\nthe Lie bracket. This theory has important applications in the study of\nYang-Baxter operators as the self-distributive deformations determine\nnontrivial deformations of the Yang-Baxter operators derived from $n$-ary\nself-distributive structures. In particular, we show that there is a\nhomomorphism from the second self-distributive cohomology to the second\ncohomology of the associated Yang-Baxter operator. Moreover, we prove that when\nthe self-distributive structure is induced by a Lie algebra with trivial\ncenter, we get a monomorphism. We construct a deformation theory based on\nsimultaneous deformations, where both the coalgebra and self-distributive\nstructures are deformed simultaneously. We show that when the Lie algebra has\nnontrivial cohomology (e.g. for semi-simple Lie algebras) the simultaneous\ndeformations might still be nontrivial, producing corresponding Yang-Baxter\noperator deformations. We provide examples and computations in low dimensions,\nand we completely characterize $2$-cocycles for the self-distributive objects\nobtained from all the nontrivial real Lie algebras of dimension $3$, i.e. the\nBianchi I-IX, and all the nontrivial complex Lie algebras of dimension $3$.\n","date":"2022-07-26T19:15:48Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Emanuele Zappala\n    "]},{"title":"Continuous cohomology of topological quandles","link":"http://arxiv.org/abs/1803.07604v1","summary":"  A continuous cohomology theory for topological quandles is introduced, and\ncompared to the algebraic theories. Extensions of topological quandles are\nstudied with respect to continuous 2-cocycles, and used to show the differences\nin second cohomology groups for specific topological quandles. A method of\ncomputing the cohomology groups of the inverse limit is applied to quandles.\n","date":"2018-03-20T18:58:55Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Masahico Saito\n    ","\n      Emanuele Zappala\n    "]},{"title":"Decomposition of the regular representation for dihedral quandles","link":"http://arxiv.org/abs/2206.06311v1","summary":"  We decompose the regular quandle representation of a dihedral quandle\n$\\mathcal{R}_n$ into irreducible quandle subrepresentations.\n","date":"2022-06-13T16:49:59Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Prasad Senesi\n    ","\n      Emanuele Zappala\n    "]},{"title":"Polynomial Invariants of Singular Knots and links","link":"http://arxiv.org/abs/2010.13295v3","summary":"  We generalize the notion of the quandle polynomial to the case of\nsingquandles. We show that the singquandle polynomial is an invariant of finite\nsingquandles. We also construct a singular link invariant from the singquandle\npolynomial and show that this new singular link invariant generalizes the\nsingquandle counting invariant. In particular, using the new polynomial\ninvariant, we can distinguish singular links with the same singquandle counting\ninvariant.\n","date":"2020-10-26T02:52:30Z","authors":["\n      Jose Ceniceros\n    ","\n      Indu R. Churchill\n    ","\n      Mohamed Elhamdadi\n    "]},{"title":"Singquandle Shadows and Singular knot Invariants","link":"http://arxiv.org/abs/2101.08775v1","summary":"  We introduce shadow structures for singular knot theory. Precisely, we define\n\\emph{two} invariants of singular knots and links. First, we introduce a notion\nof action of a singquandle on a set to define a shadow counting invariant of\nsingular links which generalize the classical shadow colorings of knots by\nquandles. We then define a shadow polynomial invariant for shadow structures.\nLastly, we enhance the shadow counting invariant by combining both the shadow\ncounting invariant and the shadow polynomial invariant. Explicit examples of\ncomputations are given.\n","date":"2021-01-21T18:55:41Z","authors":["\n      Jose Ceniceros\n    ","\n      Indu R. Churchill\n    ","\n      Mohamed Elhamdadi\n    "]},{"title":"Topologies, Posets and Finite Quandles","link":"http://arxiv.org/abs/2209.14518v1","summary":"  An Alexandroff space is a topological space in which every intersection of\nopen sets is open. There is one to one correspondence between Alexandroff\n$T_0$-spaces and partially ordered sets (posets). We investigate Alexandroff\n$T_0$-topologies on finite quandles. We prove that there is a non-trivial\ntopology on a finite quandle making right multiplications continuous functions\nif and only if the quandle has more than one orbit. Furthermore, we show that\nright continuous posets on quandles with $n$ orbits are $n$-partite. We also\nfind, for the even dihedral quandles, the number of all possible topologies\nmaking the right multiplications continuous. Some explicit computations for\nquandles of cardinality up to five are given.\n","date":"2022-09-29T02:42:02Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Tushar Gona\n    ","\n      Hitakshi Lahrani\n    "]},{"title":"The Colored Jones Polynomial of Singular Knots","link":"http://arxiv.org/abs/1602.08628v2","summary":"  We generalize the colored Jones polynomial to $4$-valent graphs. This\ngeneralization is given as a sequence of invariants in which the first term is\na one variable specialization of the Kauffman-Vogel polynomial. We use the\ninvariant we construct to give a sequence of singular braid group\nrepresentations.\n","date":"2016-02-27T19:00:06Z","authors":["\n      Khaled Bataineh\n    ","\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    "]},{"title":"The Cocycle structure of the Alexander $f$-quandles on finite fields","link":"http://arxiv.org/abs/1612.08968v2","summary":"  We determine the second, third, and fourth cohomology groups of Alexander\n$f$-quandles of the form $\\mathbb{F}_q[T,S]/ (T-\\omega, S-\\beta)$, where\n$\\mathbb{F}_q$ denotes the finite field of order $q$, $\\omega \\in\n\\mathbb{F}_q\\setminus \\{0,1\\}$, and $\\beta \\in \\mathbb{F}_q$\n","date":"2016-12-28T19:54:04Z","authors":["\n      Indu Rasika Churchill\n    ","\n      Mohamed Elhamdadi\n    ","\n      Neranga Fernando\n    "]},{"title":"On the Classification of Topological Quandles","link":"http://arxiv.org/abs/1803.00671v1","summary":"  We investigate the classification of topological quandles on some simple\nmanifolds. Precisely we classify all Alexander quandle structures, up to\nisomorphism, on the real line and the unit circle. For the closed unit interval\n$[0, 1]$, we conjecture that there exists only one topological quandle\nstructure on it, i.e. the trivial one. Some evidences are provided to support\nour conjecture.\n","date":"2018-03-02T00:30:27Z","authors":["\n      Zhiyun Cheng\n    ","\n      Mohamed Elhamdadi\n    ","\n      Boris Shekhtman\n    "]},{"title":"Framed Knots","link":"http://arxiv.org/abs/1910.10257v6","summary":"  This article gives a foundational account of various characterizations of\nframed links in the $3$-sphere.\n","date":"2019-10-22T22:26:28Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    ","\n      Kyle Istvan\n    "]},{"title":"On the minimum number of Fox Colorings of Knots","link":"http://arxiv.org/abs/2005.11336v2","summary":"  We investigate Fox colorings of knots that are 17-colorable. Precisely, we\nprove that any 17-colorable knot has a diagram such that exactly 6 among the\nseventeen colors are assigned to the arcs of the diagram.\n","date":"2020-05-22T18:04:08Z","authors":["\n      Hamid Abchir\n    ","\n      Mohamed Elhamdadi\n    ","\n      Soukaina Lamsifer\n    "]},{"title":"Higher Arity Self-Distributive Operations in Cascades and their\n  Cohomology","link":"http://arxiv.org/abs/1905.00440v3","summary":"  We investigate constructions of higher arity self-distributive operations,\nand give relations between cohomology groups corresponding to operations of\ndifferent arities. For this purpose we introduce the notion of mutually\ndistributive $n$-ary operations generalizing those for the binary case, and\ndefine a cohomology theory labeled by these operations. A geometric\ninterpretation in terms of framed links is described, with the scope of\nproviding algebraic background of constructing $2$-cocycles for framed link\ninvariants. This theory is also studied in the context of symmetric monoidal\ncategories. Examples from Lie algebras, coalgebras and Hopf algebras are given.\n","date":"2019-05-01T18:14:14Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Masahico Saito\n    ","\n      Emanuele Zappala\n    "]},{"title":"Heap and Ternary Self-Distributive Cohomology","link":"http://arxiv.org/abs/1910.02877v1","summary":"  Heaps are para-associative ternary operations bijectively exemplified by\ngroups via the operation $(x,y,z) \\mapsto x y^{-1} z$. They are also ternary\nself-distributive, and have a diagrammatic interpretation in terms of framed\nlinks. Motivated by these properties, we define para-associative and heap\ncohomology theories and also a ternary self-distributive cohomology theory with\nabelian heap coefficients. We show that one of the heap cohomologies is related\nto group cohomology via a long exact sequence. Moreover we construct maps\nbetween second cohomology groups of normalized group cohomology and heap\ncohomology, and show that the latter injects into the ternary self-distributive\nsecond cohomology group. We proceed to study heap objects in symmetric monoidal\ncategories providing a characterization of pointed heaps as involutory Hopf\nmonoids in the given category. Finally we prove that heap objects are also\n\"categorically\" self-distributive in an appropriate sense.\n","date":"2019-10-07T16:01:33Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Masahico Saito\n    ","\n      Emanuele Zappala\n    "]},{"title":"Enhancement of the Coloring Invariant for Folded Molecular Chains","link":"http://arxiv.org/abs/2012.00210v1","summary":"  Folded linear molecular chains are ubiquitous in biology. Folding is mediated\nby intra-chain interactions that \"glue\" two or more regions of a chain. The\nresulting fold topology is widely believed to be a determinant of biomolecular\nproperties and function. Recently, knot theory has been extended to describe\nthe topology of folded linear chains such as proteins and nucleic acids. To\nclassify and distinguish chain topologies, algebraic structure of quandles has\nbeen adapted and applied. However, the approach is limited as apparently\ndistinct topologies may end up having the same number of colorings. Here, we\nenhance the resolving power of the quandle coloring approach by introducing\nBoltzmann weights. We demonstrate that the enhanced coloring invariants can\ndistinguish fold topologies with an improved resolution.\n","date":"2020-12-01T01:42:05Z","authors":["\n      Jose Ceniceros\n    ","\n      Mohamed Elhamdadi\n    ","\n      Alireza Mashaghi\n    "]},{"title":"Ternary Distributive Structures and Quandles","link":"http://arxiv.org/abs/1403.7099v1","summary":"  We introduce a notion of ternary distributive algebraic structure, give\nexamples, and relate it to the notion of a quandle. Classification is given for\nlow order structures of this type. Constructions of such structures from\nternary bialgebras are provided. We also describe ternary distributive\nalgebraic structures coming from groups and give examples from vector spaces\nwhose bases are elements of a finite ternary distributive set. We introduce a\ncohomology theory that is analogous to Hochschild cohomology and relate it to a\nformal deformation theory of these structures.\n","date":"2014-03-27T15:51:48Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Matthew Green\n    ","\n      Abdenacer Makhlouf\n    "]},{"title":"Foundations of topological racks and quandles","link":"http://arxiv.org/abs/1506.00084v1","summary":"  We give a foundational account on topological racks and quandles.\nSpecifically, we define the notions of ideals, kernels, units, and inner\nautomorphism group in the context of topological racks. Further, we investigate\ntopological rack modules and principal rack bundles. Central extensions of\ntopological racks are then introduced providing a first step towards a general\ncontinuous cohomology theory for topological racks and quandles.\n","date":"2015-05-30T07:22:38Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      El-kaïoum M. Moutuou\n    "]},{"title":"Twist Regions and Coefficients Stability of the Colored Jones Polynomial","link":"http://arxiv.org/abs/1605.04972v3","summary":"  We prove that the coefficients of the colored Jones polynomial of alternating\nlinks stabilize under increasing the number of twists in the twist regions of\nthe link diagram. This gives us an infinite family of $q$-power series derived\nfrom the colored Jones polynomial parametrized by the color and the twist\nregions of the alternating link diagram.\n","date":"2016-05-16T22:26:20Z","authors":["\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    ","\n      Masahico Saito\n    "]},{"title":"On Rational Knots and Links in the Solid Torus","link":"http://arxiv.org/abs/1611.05945v5","summary":"  We introduce the notion of rational links in the solid torus. We show that\nrational links in the solid torus are fully characterized by rational tangles,\nand hence by the continued fraction of the rational tangle. Furthermore, we\ngeneralize this by giving an infinite family of ambient isotopy invariants of\ncolored diagrams in the Kauffman bracket skein module of an oriented surface.\n","date":"2016-11-18T01:30:06Z","authors":["\n      Khaled Bataineh\n    ","\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    "]},{"title":"Generating sets of Reidemeister moves of oriented singular links and\n  quandles","link":"http://arxiv.org/abs/1702.01150v2","summary":"  We give a generating set of the generalized Reidemeister moves for oriented\nsingular links. We use it to introduce an algebraic structure arising from the\nstudy of oriented singular knots. We give some examples, including some\nnon-isomorphic families of such structures over non-abelian groups. We show\nthat the set of colorings of a singular knot by this new structure is an\ninvariant of oriented singular knots and use it to distinguish some singular\nlinks.\n","date":"2017-02-03T20:42:55Z","authors":["\n      Khaled Bataineh\n    ","\n      Mohamed Elhamdadi\n    ","\n      Mustafa Hajij\n    ","\n      William Youmans\n    "]}]
+[
+    {
+        "title": "Knot groups, quandle extensions and orderability",
+        "link": "http://arxiv.org/abs/2307.08605v1",
+        "summary": "  This paper gives a new way of characterizing L-space $3$-manifolds by using\norderability of quandles. Hence, this answers a question of Adam Clay et al.\n[Question 1.1 of Canad. Math. Bull. 59 (2016), no. 3, 472-482]. We also\ninvestigate both the orderability and circular orderability of dynamical\nextensions of orderable quandles. We give conditions under which the\nconjugation quandle on a group, as an extension of the conjugation of a\nbi-orderable group by the conjugation of a right orderable group, is right\norderable. We also study the right circular orderability of link quandles. We\nprove that the $n$-quandle $Q_n(L)$ of the link quandle of $L$ is not right\ncircularly orderable and hence it is not right orderable. But on the other\nhand, we show that there are infinitely many links for which the $p$-enveloping\ngroup of the link quandle is right circularly orderable for any prime integer\n$p$.\n",
+        "date": "2023-07-17T16:14:52Z",
+        "authors": [
+            "\n      Idrissa Ba\n    ",
+            "\n      Mohamed Elhamdadi\n    "
+        ]
+    },
+    {
+        "title": "On the representation theory of cyclic and dihedral quandles",
+        "link": "http://arxiv.org/abs/2307.03728v1",
+        "summary": "  Quandle representations are homomorphisms from a quandle to the group of\ninvertible matrices on some vector space taken with the conjugation operation.\nWe study certain families of quandle representations. More specifically, we\nintroduce the notion of regular representation for quandles, investigating in\ndetail the regular representations of dihedral quandles and \\emph{completely\nclassifying} them. Then, we study representations of cyclic quandles, giving\nsome necessary conditions for irreducibility and providing a complete\nclassification under some restrictions. Moreover, we provide various\ncounterexamples to constructions that hold for group representations, and show\nto what extent such theory has the same properties of the representation theory\nof finite groups. In particular, we show that Maschke's theorem does not hold\nfor quandle representations.\n",
+        "date": "2023-07-07T17:30:33Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Prasad Senesi\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "Classification of Connected Shelves",
+        "link": "http://arxiv.org/abs/2301.12286v4",
+        "summary": "  We investigate finite right-distributive binary algebraic structures called\nshelves. We first use symbolic computations with Python to classify (up to\nisomorphism) all connected shelves with order less than six. We explore the\ngroup structure generated by the rows of \\textit{latin} shelves. We also define\ntwo-variable shelf polynomial by analogy with the quandle polynomial and then\nstate a conjecture about connected idempotent shelves.\n",
+        "date": "2023-01-28T20:00:26Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Neranga Fernando\n    ",
+            "\n      Mathew Goonewardena\n    "
+        ]
+    },
+    {
+        "title": "A G-Family of Singquandles and Invariants of Dichromatic Singular links",
+        "link": "http://arxiv.org/abs/2301.03792v1",
+        "summary": "  We introduce and investigate dichromatic singular links. We also construct\nG-Family of singquandles and use them to define counting invariants for\nunoriented dichromatic singular links. We provide some examples to show that\nthese invariants distinguish some dichromatic singular links.\n",
+        "date": "2023-01-10T05:31:01Z",
+        "authors": [
+            "\n      Mohd Ibrahim Sheikh\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Danish Ali\n    "
+        ]
+    },
+    {
+        "title": "On Ternary $F$-manifold Algebras and their Representations",
+        "link": "http://arxiv.org/abs/2212.13600v1",
+        "summary": "  We introduce a notion of ternary $F$-manifold algebras which is a\ngeneralization of $F$-manifold algebras. We study representation theory of\nternary $F$-manifold algebras. In particular, we introduce a notion of dual\nrepresentation which requires additional conditions similar to the binary case.\nWe then establish a notion of a coherence ternary $F$-manifold algebra.\nMoreover, we investigate the construction of ternary $F$-manifold algebras\nusing $F$-manifold algebras. Furthermore, we introduce and investigate a notion\nof a relative Rota-Baxter operator with respect to a representation and use it\nto construct ternary pre-$F$-manifold algebras.\n",
+        "date": "2022-12-27T20:16:07Z",
+        "authors": [
+            "\n      A. Ben Hassine\n    ",
+            "\n      T. Chtioui\n    ",
+            "\n      M. Elhamdadi\n    ",
+            "\n      S. Mabrouk\n    "
+        ]
+    },
+    {
+        "title": "RNA foldings, Oriented Stuck Knots and State Sum Invariants",
+        "link": "http://arxiv.org/abs/2212.12605v1",
+        "summary": "  We extend the quandle cocycle invariant to the context of stuck links. More\nprecisely, we define an invariant of stuck links by assigning Boltzmann weights\nat both classical and stuck crossings. As an application, we define a\nsingle-variable and a two-variable polynomial invariant of stuck links.\nFurthermore, we define a single-variable and two-variable polynomial invariant\nof arc diagrams of RNA foldings. We provide explicit computations of the new\ninvariants.\n",
+        "date": "2022-12-23T22:44:00Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Brendan Magill\n    ",
+            "\n      Gabriana Rosario\n    "
+        ]
+    },
+    {
+        "title": "Topologies, Posets and Finite Quandles",
+        "link": "http://arxiv.org/abs/2209.14518v1",
+        "summary": "  An Alexandroff space is a topological space in which every intersection of\nopen sets is open. There is one to one correspondence between Alexandroff\n$T_0$-spaces and partially ordered sets (posets). We investigate Alexandroff\n$T_0$-topologies on finite quandles. We prove that there is a non-trivial\ntopology on a finite quandle making right multiplications continuous functions\nif and only if the quandle has more than one orbit. Furthermore, we show that\nright continuous posets on quandles with $n$ orbits are $n$-partite. We also\nfind, for the even dihedral quandles, the number of all possible topologies\nmaking the right multiplications continuous. Some explicit computations for\nquandles of cardinality up to five are given.\n",
+        "date": "2022-09-29T02:42:02Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Tushar Gona\n    ",
+            "\n      Hitakshi Lahrani\n    "
+        ]
+    },
+    {
+        "title": "Using Processing Fluency as a Metric of Trust in Scatterplot\n  Visualizations",
+        "link": "http://arxiv.org/abs/2209.14340v1",
+        "summary": "  Establishing trust with readers is an important first step in visual data\ncommunication. But what makes a visualization trustworthy? Psychology and\nbehavioral economics research has found processing fluency (i.e., speed and\naccuracy of perceiving and processing a stimulus) is central to perceived\ntrust. We examine the association between processing fluency and trust in\nvisualizations through two empirical studies. In Experiment 1, we tested the\neffect of camouflaging a visualization on processing fluency. Participants\nestimated the proportion of data values within a specified range for six\ncamouflaged visualizations and one non-camouflaged control; they also reported\ntheir perceived difficulty for each of the visualizations. Camouflaged\nvisualizations produced less accurate estimations compared to the control. In\nExperiment 2, we created a decision task based on trust games adapted from\nbehavioral economics. We asked participants to invest money in two hypothetical\ncompanies and report how much they trust each company. One company communicates\nits strategy with a camouflaged visualization, the other with a controlled\nvisualization. Participants tended to invest less money in the company\npresenting a camouflaged visualization. Hence, we found support for the\nhypothesis that processing fluency is key to the perception of trust in visual\ndata communication.\n",
+        "date": "2022-09-28T18:09:36Z",
+        "authors": [
+            "\n      Hamza Elhamdadi\n    ",
+            "\n      Lace Padilla\n    ",
+            "\n      Cindy Xiong\n    "
+        ]
+    },
+    {
+        "title": "How Do We Measure Trust in Visual Data Communication?",
+        "link": "http://arxiv.org/abs/2209.14276v1",
+        "summary": "  Trust is fundamental to effective visual data communication between the\nvisualization designer and the reader. Although personal experience and\npreference influence readers' trust in visualizations, visualization designers\ncan leverage design techniques to create visualizations that evoke a\n\"calibrated trust,\" at which readers arrive after critically evaluating the\ninformation presented. To systematically understand what drives readers to\nengage in \"calibrated trust,\" we must first equip ourselves with reliable and\nvalid methods for measuring trust. Computer science and data visualization\nresearchers have not yet reached a consensus on a trust definition or metric,\nwhich are essential to building a comprehensive trust model in human-data\ninteraction. On the other hand, social scientists and behavioral economists\nhave developed and perfected metrics that can measure generalized and\ninterpersonal trust, which the visualization community can reference, modify,\nand adapt for our needs. In this paper, we gather existing methods for\nevaluating trust from other disciplines and discuss how we might use them to\nmeasure, define, and model trust in data visualization research. Specifically,\nwe discuss quantitative surveys from social sciences, trust games from\nbehavioral economics, measuring trust through measuring belief updating, and\nmeasuring trust through perceptual methods. We assess the potential issues with\nthese methods and consider how we can systematically apply them to\nvisualization research.\n",
+        "date": "2022-09-28T17:39:26Z",
+        "authors": [
+            "\n      Hamza Elhamdadi\n    ",
+            "\n      Aimen Gaba\n    ",
+            "\n      Yea-Seul Kim\n    ",
+            "\n      Cindy Xiong\n    "
+        ]
+    },
+    {
+        "title": "Deformations of Yang-Baxter operators via $n$-Lie algebra cohomology",
+        "link": "http://arxiv.org/abs/2207.13156v2",
+        "summary": "  We introduce a cohomology theory of $n$-ary self-distributive objects in the\ntensor category of vector spaces that classifies their infinitesimal\ndeformations. For $n$-ary self-distributive objects obtained from $n$-Lie\nalgebras we show that ($n$-ary) Lie cohomology naturally injects in the\nself-distributive cohomology and we prove, under mild additional assumptions,\nthat the map is an isomorphism of second cohomology groups. This shows that the\nself-distribuitve deformations are completely classified by the deformations of\nthe Lie bracket. This theory has important applications in the study of\nYang-Baxter operators as the self-distributive deformations determine\nnontrivial deformations of the Yang-Baxter operators derived from $n$-ary\nself-distributive structures. In particular, we show that there is a\nhomomorphism from the second self-distributive cohomology to the second\ncohomology of the associated Yang-Baxter operator. Moreover, we prove that when\nthe self-distributive structure is induced by a Lie algebra with trivial\ncenter, we get a monomorphism. We construct a deformation theory based on\nsimultaneous deformations, where both the coalgebra and self-distributive\nstructures are deformed simultaneously. We show that when the Lie algebra has\nnontrivial cohomology (e.g. for semi-simple Lie algebras) the simultaneous\ndeformations might still be nontrivial, producing corresponding Yang-Baxter\noperator deformations. We provide examples and computations in low dimensions,\nand we completely characterize $2$-cocycles for the self-distributive objects\nobtained from all the nontrivial real Lie algebras of dimension $3$, i.e. the\nBianchi I-IX, and all the nontrivial complex Lie algebras of dimension $3$.\n",
+        "date": "2022-07-26T19:15:48Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "RNA foldings and Stuck Knots",
+        "link": "http://arxiv.org/abs/2207.10249v2",
+        "summary": "  We study RNA foldings and investigate their topology using a combination of\nknot theory and embedded rigid vertex graphs. Knot theory has been helpful in\nmodeling biomolecules, but classical knots place emphasis on a biomolecule's\nentanglement while ignoring their intrachain interactions. We remedy this by\nusing stuck knots and links, which provide a way to emphasize both their\nentanglement and intrachain interactions. We first give a generating set of the\noriented stuck Reidemeister moves for oriented stuck links. We then introduce\nan algebraic structure to axiomatize the oriented stuck Reidemeister moves.\nUsing this algebraic structure, we define a coloring counting invariant of\nstuck links and provide explicit computations of the invariant. Lastly, we\ncompute the counting invariant for arc diagrams of RNA foldings through the use\nof stuck link diagrams.\n",
+        "date": "2022-07-21T01:06:37Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Josef Komissar\n    ",
+            "\n      Hitakshi Lahrani\n    "
+        ]
+    },
+    {
+        "title": "Enhancements of link colorings via idempotents of quandle rings",
+        "link": "http://arxiv.org/abs/2207.09257v1",
+        "summary": "  We show that quandle rings and their idempotents lead to proper enhancements\nof the well-known quandle coloring invariant of links in the 3-space. We give\nexplicit examples to show that the new invariants are also stronger than the\n$\\Hom$ quandle invariant when the coloring quandles are medial. We provide\ncomputer assisted computations of idempotents for all quandles of order less\nthan six, and also determine the ones for which the set of all idempotents is\nitself a quandle. The data supports our conjecture about triviality of\nidempotents of integral quandle rings of finite latin quandles. We also\ndetermine Peirce spectra for complex quandle algebras of some small order\nquandles.\n",
+        "date": "2022-07-19T13:16:22Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Brandon Nunez\n    ",
+            "\n      Mahender Singh\n    "
+        ]
+    },
+    {
+        "title": "Decomposition of the regular representation for dihedral quandles",
+        "link": "http://arxiv.org/abs/2206.06311v1",
+        "summary": "  We decompose the regular quandle representation of a dihedral quandle\n$\\mathcal{R}_n$ into irreducible quandle subrepresentations.\n",
+        "date": "2022-06-13T16:49:59Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Prasad Senesi\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "On Schur Algebras and Derivations of Free Lie Algebras",
+        "link": "http://arxiv.org/abs/2206.03548v1",
+        "summary": "  We investigate the action of Schur algebra on the Lie algebras of derivations\nof free Lie algebras and operad structures constructed from it. We also show\nthat the Lie algebra of derivations is generated by quadratic derivations\ntogether with the action of the Schur operad. Applications to certain subgroups\nof the automorphism group of a finitely generated free group are given as well.\n",
+        "date": "2022-06-07T19:41:54Z",
+        "authors": [
+            "\n      Frederick Cohen\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Tao Jin\n    ",
+            "\n      Minghui Liu\n    "
+        ]
+    },
+    {
+        "title": "Idempotents, free products and quandle coverings",
+        "link": "http://arxiv.org/abs/2204.11288v3",
+        "summary": "  In this paper, we investigate idempotents in quandle rings and relate them\nwith quandle coverings. We prove that integral quandle rings of quandles of\nfinite type that are non-trivial coverings over nice base quandles admit\ninfinitely many non-trivial idempotents, and give their complete description.\nWe show that the set of all these idempotents forms a quandle in itself. As an\napplication, we deduce that the quandle ring of the knot quandle of a\nnon-trivial long knot admit non-trivial idempotents. We consider free products\nof quandles and prove that integral quandle rings of free quandles have only\ntrivial idempotents, giving an infinite family of quandles with this property.\nWe also give a description of idempotents in quandle rings of unions and\ncertain twisted unions of quandles.\n",
+        "date": "2022-04-24T14:26:17Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Brandon Nunez\n    ",
+            "\n      Mahender Singh\n    ",
+            "\n      Dipali Swain\n    "
+        ]
+    },
+    {
+        "title": "Circular orderability and quandles",
+        "link": "http://arxiv.org/abs/2204.09458v1",
+        "summary": "  In this paper, we introduce the notion of circular orderability for quandles.\nWe show that the set all right (respectively left) circular orderings of a\nquandle is a compact topological space. We also show that the space of right\n(respectively left) orderings of a quandle embeds in its space of right\n(respectively left) circular orderings. Examples of quandles that are not left\ncircularly orderable and examples of quandles that are neither left nor right\ncircularly orderable are given.\n",
+        "date": "2022-04-20T13:43:17Z",
+        "authors": [
+            "\n      Idrissa Ba\n    ",
+            "\n      Mohamed Elhamdadi\n    "
+        ]
+    },
+    {
+        "title": "AffectiveTDA: Using Topological Data Analysis to Improve Analysis and\n  Explainability in Affective Computing",
+        "link": "http://arxiv.org/abs/2107.08573v2",
+        "summary": "  We present an approach utilizing Topological Data Analysis to study the\nstructure of face poses used in affective computing, i.e., the process of\nrecognizing human emotion. The approach uses a conditional comparison of\ndifferent emotions, both respective and irrespective of time, with multiple\ntopological distance metrics, dimension reduction techniques, and face\nsubsections (e.g., eyes, nose, mouth, etc.). The results confirm that our\ntopology-based approach captures known patterns, distinctions between emotions,\nand distinctions between individuals, which is an important step towards more\nrobust and explainable emotion recognition by machines.\n",
+        "date": "2021-07-19T01:28:50Z",
+        "authors": [
+            "\n      Hamza Elhamdadi\n    ",
+            "\n      Shaun Canavan\n    ",
+            "\n      Paul Rosen\n    "
+        ]
+    },
+    {
+        "title": "The derivation problem for quandle algebras",
+        "link": "http://arxiv.org/abs/2106.08289v2",
+        "summary": "  The purpose of this paper is to introduce and investigate the notion of\nderivation for quandle algebras. More precisely, we describe the symmetries on\nstructure constants providing a characterization for a linear map to be a\nderivation. We obtain a complete characterization of derivations in the case of\nquandle algebras of \\emph{dihedral quandles} over fields of characteristic\nzero, and provide the dimensionality of the Lie algebra of derivations. Many\nexplicit examples and computations are given over both zero and positive\ncharacteristic.\n  Furthermore, we investigate inner derivations, in the sense of Schafer for\nnon-associative structures. We obtain necessary conditions for the Lie\ntransformation algebra of quandle algebras of Alexander quandles, with explicit\ncomputations in low dimensions.\n",
+        "date": "2021-06-15T17:03:37Z",
+        "authors": [
+            "\n      M. Elhamdadi\n    ",
+            "\n      A. Makhlouf\n    ",
+            "\n      S. Silvestrov\n    ",
+            "\n      E. Zappala\n    "
+        ]
+    },
+    {
+        "title": "Extensions and crossed modules of $n$-Lie Rinehart algebras",
+        "link": "http://arxiv.org/abs/2103.15006v1",
+        "summary": "  We introduce a notion of $n$-Lie Rinehart algebras as a generalization of Lie\nRinehart algebras to $n$-ary case. This notion is also an algebraic analogue of\n$n$-Lie algebroids. We develop representation theory and describe a cohomology\ncomplex of $n$-Lie Rinehart algebras. Furthermore, we investigate extension\ntheory of $n$-Lie Rinehart algebras by means of $2$-cocycles. Finally, we\nintroduce crossed modules of $n$-Lie Rinehart algebras to gain a better\nunderstanding of their third dimensional cohomology groups.\n",
+        "date": "2021-03-27T22:22:53Z",
+        "authors": [
+            "\n      A. Ben Hassine\n    ",
+            "\n      T. Chtioui\n    ",
+            "\n      M. Elhamdadi\n    ",
+            "\n      S. Mabrouk\n    "
+        ]
+    },
+    {
+        "title": "Singquandles, Psyquandles and Singular Knots: A Survey",
+        "link": "http://arxiv.org/abs/2103.05620v1",
+        "summary": "  In this short survey we review recent results dealing with algebraic\nstructures (quandles, psyquandles, and singquandles) related to singular knot\ntheory. We first explore the singquandles counting invariant and then consider\nseveral recent enhancements to this invariant. These enhancements include a\nsingquandle cocycle invariant and several polynomial invariants of singular\nknots obtained from the singquandle structure. We then explore psyquandles\nwhich can be thought of as generalizations of oriented signquandles, and review\nrecent developments regarding invariants of singular knots obtained from\npsyquandles.\n",
+        "date": "2021-03-09T18:45:29Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Indu R. Churchill\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    "
+        ]
+    },
+    {
+        "title": "Singquandle Shadows and Singular knot Invariants",
+        "link": "http://arxiv.org/abs/2101.08775v1",
+        "summary": "  We introduce shadow structures for singular knot theory. Precisely, we define\n\\emph{two} invariants of singular knots and links. First, we introduce a notion\nof action of a singquandle on a set to define a shadow counting invariant of\nsingular links which generalize the classical shadow colorings of knots by\nquandles. We then define a shadow polynomial invariant for shadow structures.\nLastly, we enhance the shadow counting invariant by combining both the shadow\ncounting invariant and the shadow polynomial invariant. Explicit examples of\ncomputations are given.\n",
+        "date": "2021-01-21T18:55:41Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Indu R. Churchill\n    ",
+            "\n      Mohamed Elhamdadi\n    "
+        ]
+    },
+    {
+        "title": "Enhancement of the Coloring Invariant for Folded Molecular Chains",
+        "link": "http://arxiv.org/abs/2012.00210v1",
+        "summary": "  Folded linear molecular chains are ubiquitous in biology. Folding is mediated\nby intra-chain interactions that \"glue\" two or more regions of a chain. The\nresulting fold topology is widely believed to be a determinant of biomolecular\nproperties and function. Recently, knot theory has been extended to describe\nthe topology of folded linear chains such as proteins and nucleic acids. To\nclassify and distinguish chain topologies, algebraic structure of quandles has\nbeen adapted and applied. However, the approach is limited as apparently\ndistinct topologies may end up having the same number of colorings. Here, we\nenhance the resolving power of the quandle coloring approach by introducing\nBoltzmann weights. We demonstrate that the enhanced coloring invariants can\ndistinguish fold topologies with an improved resolution.\n",
+        "date": "2020-12-01T01:42:05Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Alireza Mashaghi\n    "
+        ]
+    },
+    {
+        "title": "Polynomial Invariants of Singular Knots and links",
+        "link": "http://arxiv.org/abs/2010.13295v3",
+        "summary": "  We generalize the notion of the quandle polynomial to the case of\nsingquandles. We show that the singquandle polynomial is an invariant of finite\nsingquandles. We also construct a singular link invariant from the singquandle\npolynomial and show that this new singular link invariant generalizes the\nsingquandle counting invariant. In particular, using the new polynomial\ninvariant, we can distinguish singular links with the same singquandle counting\ninvariant.\n",
+        "date": "2020-10-26T02:52:30Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Indu R. Churchill\n    ",
+            "\n      Mohamed Elhamdadi\n    "
+        ]
+    },
+    {
+        "title": "Cohomology and Deformations of left-symmetric Rinehart Algebras",
+        "link": "http://arxiv.org/abs/2010.00335v2",
+        "summary": "  We introduce a notion of left-symmetric Rinehart algebras, which is a\ngeneralization of a left-symmetric algebras. The left multiplication gives rise\nto a representation of the corresponding sub-adjacent Lie-Rinehart algebra. We\nconstruct left-symmetric Rinehart algebra from $\\mathcal O$-operators on\nLie-Rinehart algebra. We extensively investigate representations of a\nleft-symmetric Rinehart algebras. Moreover, we study deformations of\nleft-symmetric Rinehart algebras, which is controlled by the second cohomology\nclass in the deformation cohomology. We also give the relationships between\n$\\mathcal O$-operators and Nijenhuis operators on left-symmetric Rinehart\nalgebras.\n",
+        "date": "2020-09-30T16:57:12Z",
+        "authors": [
+            "\n      A. Ben Hassine\n    ",
+            "\n      T. Chtioui\n    ",
+            "\n      M. Elhamdadi\n    ",
+            "\n      S. Mabrouk\n    "
+        ]
+    },
+    {
+        "title": "Cocycle Invariants and Oriented Singular Knots",
+        "link": "http://arxiv.org/abs/2009.07950v2",
+        "summary": "  We extend the quandle cocycle invariant to oriented singular knots and links\nusing algebraic structures called \\emph{oriented singquandles} and assigning\nweight functions at both regular and singular crossings. This invariant\ncoincides with the classical cocycle invariant for classical knots but provides\nextra information about singular knots and links. The new invariant\ndistinguishes the singular granny knot from the singular square knot.\n",
+        "date": "2020-09-16T21:48:33Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Indu R. Churchill\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    "
+        ]
+    },
+    {
+        "title": "On the minimum number of Fox Colorings of Knots",
+        "link": "http://arxiv.org/abs/2005.11336v2",
+        "summary": "  We investigate Fox colorings of knots that are 17-colorable. Precisely, we\nprove that any 17-colorable knot has a diagram such that exactly 6 among the\nseventeen colors are assigned to the arcs of the diagram.\n",
+        "date": "2020-05-22T18:04:08Z",
+        "authors": [
+            "\n      Hamid Abchir\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Soukaina Lamsifer\n    "
+        ]
+    },
+    {
+        "title": "Skein theoretic approach to Yang-Baxter homology",
+        "link": "http://arxiv.org/abs/2004.00691v1",
+        "summary": "  We introduce skein theoretic techniques to compute the Yang-Baxter (YB)\nhomology and cohomology groups of the R-matrix corresponding to the Jones\npolynomial. More specifically, we show that the YB operator $R$ for Jones,\nnormalized for homology, admits a skein decomposition $R = I + \\beta\\alpha$,\nwhere $\\alpha: V^{\\otimes 2} \\rightarrow k$ is a \"cup\" pairing map and $\\beta:\nk \\rightarrow V^{\\otimes 2}$ is a \"cap\" copairing map, and differentials in the\nchain complex associated to $R$ can be decomposed into horizontal tensor\nconcatenations of cups and caps. We apply our skein theoretic approach to\ndetermine the second and third YB homology groups, confirming a conjecture of\nPrzytycki and Wang. Further, we compute the cohomology groups of $R$, and\nprovide computations in higher dimensions that yield some annihilations of\nsubmodules.\n",
+        "date": "2020-04-01T20:12:18Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "Knot Theory for Proteins: Gauss Codes, Quandles and Bondles",
+        "link": "http://arxiv.org/abs/1912.09353v2",
+        "summary": "  Proteins are linear molecular chains that often fold to function. The\ntopology of folding is widely believed to define its properties and function,\nand knot theory has been applied to study protein structure and its\nimplications. More that 97% of proteins are, however, classified as unknots\nwhen intra-chain interactions are ignored. This raises the question as to\nwhether knot theory can be extended to include intra-chain interactions and\nthus be able to categorize topology of the proteins that are otherwise\nclassified as unknotted. Here, we develop knot theory for folded linear\nmolecular chains and apply it to proteins. For this purpose, proteins will be\nthought of as an embedding of a linear segment into three dimensions, with\nadditional structure coming from self-bonding. We then project to a\ntwo-dimensional diagram and consider the basic rules of equivalence between two\ndiagrams. We further consider the representation of projections of proteins\nusing Gauss codes, or strings of numbers and letters, and how we can equate\nthese codes with changes allowed in the diagrams. Finally, we explore the\npossibility of applying the algebraic structure of quandles to distinguish the\ntopologies of proteins. Because of the presence of bonds, we extend the theory\nto define bondles, a type of quandle particularly adapted to distinguishing the\ntopological types of proteins.\n",
+        "date": "2019-12-19T16:36:06Z",
+        "authors": [
+            "\n      Colin Adams\n    ",
+            "\n      Judah Devadoss\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Alireza Mashaghi\n    "
+        ]
+    },
+    {
+        "title": "Framed Knots",
+        "link": "http://arxiv.org/abs/1910.10257v6",
+        "summary": "  This article gives a foundational account of various characterizations of\nframed links in the $3$-sphere.\n",
+        "date": "2019-10-22T22:26:28Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    ",
+            "\n      Kyle Istvan\n    "
+        ]
+    },
+    {
+        "title": "A Survey of Racks and Quandles: Some recent developments",
+        "link": "http://arxiv.org/abs/1910.07400v1",
+        "summary": "  This short survey contains some recent developments of the algebraic theory\nof racks and quandles. We report on some elements of representation theory of\nquandles and ring theoretic approach to quandles.\n",
+        "date": "2019-10-16T15:09:10Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    "
+        ]
+    },
+    {
+        "title": "Heap and Ternary Self-Distributive Cohomology",
+        "link": "http://arxiv.org/abs/1910.02877v1",
+        "summary": "  Heaps are para-associative ternary operations bijectively exemplified by\ngroups via the operation $(x,y,z) \\mapsto x y^{-1} z$. They are also ternary\nself-distributive, and have a diagrammatic interpretation in terms of framed\nlinks. Motivated by these properties, we define para-associative and heap\ncohomology theories and also a ternary self-distributive cohomology theory with\nabelian heap coefficients. We show that one of the heap cohomologies is related\nto group cohomology via a long exact sequence. Moreover we construct maps\nbetween second cohomology groups of normalized group cohomology and heap\ncohomology, and show that the latter injects into the ternary self-distributive\nsecond cohomology group. We proceed to study heap objects in symmetric monoidal\ncategories providing a characterization of pointed heaps as involutory Hopf\nmonoids in the given category. Finally we prove that heap objects are also\n\"categorically\" self-distributive in an appropriate sense.\n",
+        "date": "2019-10-07T16:01:33Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "Legendrian Rack Invariants of Legendrian Knots",
+        "link": "http://arxiv.org/abs/1905.06432v2",
+        "summary": "  We define a new algebraic structure called Legendrian racks or racks with\nLegendrian structure, motivated by the front-projection Reidemeister moves for\nLegendrian knots. We provide examples of Legendrian racks and use these\nalgebraic structures to define invariants of Legendrian knots with explicit\ncomputational examples. We classify Legendrian structures on racks with 3 and 4\nelements. We use Legendrian racks to distinguish certain Legendrian knots which\nare equivalent as smooth knots.\n",
+        "date": "2019-05-15T20:51:24Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Sam Nelson\n    "
+        ]
+    },
+    {
+        "title": "Higher Arity Self-Distributive Operations in Cascades and their\n  Cohomology",
+        "link": "http://arxiv.org/abs/1905.00440v3",
+        "summary": "  We investigate constructions of higher arity self-distributive operations,\nand give relations between cohomology groups corresponding to operations of\ndifferent arities. For this purpose we introduce the notion of mutually\ndistributive $n$-ary operations generalizing those for the binary case, and\ndefine a cohomology theory labeled by these operations. A geometric\ninterpretation in terms of framed links is described, with the scope of\nproviding algebraic background of constructing $2$-cocycles for framed link\ninvariants. This theory is also studied in the context of symmetric monoidal\ncategories. Examples from Lie algebras, coalgebras and Hopf algebras are given.\n",
+        "date": "2019-05-01T18:14:14Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "Generalized Derivations of n-BiHom-Lie algebras",
+        "link": "http://arxiv.org/abs/1901.09750v2",
+        "summary": "  We investigate generalized derivations of $n$-BiHom-Lie algebras. We\nintroduce and study properties of derivations, $( \\alpha^{s},\\beta^{r})\n$-derivations and generalized derivations. We also study quasiderivations of\n$n$-BiHom-Lie algebras. Generalized derivations of $(n+1)$-BiHom-Lie algebras\ninduced by $ n $-BiHom-Lie algebras are also considered.\n",
+        "date": "2019-01-28T15:47:36Z",
+        "authors": [
+            "\n      Amine Ben Abdeljelil\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Ivan Kaygorodov\n    ",
+            "\n      Abdenacer Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "$Q$-Series and Quantum Spin Networks",
+        "link": "http://arxiv.org/abs/1810.01759v3",
+        "summary": "  The tail of a quantum spin network in the two-sphere is a $q$-series\nassociated to the network. We study the existence of the head and tail\nfunctions of quantum spin networks colored by $2n$. We compute the $q$-series\nfor an infinite family of quantum spin networks and give the relation between\nthe tail of these networks and the tail of the colored Jones polynomial.\nFinally, we show that the family of quantum spin networks under study satisfies\na natural product structure, making these networks satisfy a natural product\nstructure.\n",
+        "date": "2018-10-01T22:28:21Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    ",
+            "\n      Jesse S F Levitt\n    "
+        ]
+    },
+    {
+        "title": "Ring Theoretic Aspects of Quandles",
+        "link": "http://arxiv.org/abs/1805.05908v6",
+        "summary": "  We associate to every quandle $X$ and an associative ring with unity\n$\\mathbf{k}$, a nonassociative ring $\\mathbf{k}[X]$ following [3]. The basic\nproperties of such rings are investigated. In particular, under the assumption\nthat the inner automorphism group $Inn(X)$ acts orbit $2$-transitively on $X$,\na complete description of right (or left) ideals is provided. The complete\ndescription of right ideals for the dihedral quandles $R_n$ is given. It is\nalso shown that if for two quandles $X$ and $Y$ the inner automorphism groups\nact $2$-transitively and $\\mathbf{k}[X]$ is isomorphic to $\\mathbf{k}[Y]$, then\nthe quandles are of the same partition type. However, we provide examples when\nthe quandle rings $\\mathbf{k}[X]$ and $\\mathbf{k}[Y]$ are isomorphic, but the\nquandles $X$ and $Y$ are not isomorphic. These examples answer some open\nproblems in [3].\n",
+        "date": "2018-05-15T17:04:11Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Neranga Fernando\n    ",
+            "\n      Boris Tsvelikhovskiy\n    "
+        ]
+    },
+    {
+        "title": "Continuous cohomology of topological quandles",
+        "link": "http://arxiv.org/abs/1803.07604v1",
+        "summary": "  A continuous cohomology theory for topological quandles is introduced, and\ncompared to the algebraic theories. Extensions of topological quandles are\nstudied with respect to continuous 2-cocycles, and used to show the differences\nin second cohomology groups for specific topological quandles. A method of\ncomputing the cohomology groups of the inverse limit is applied to quandles.\n",
+        "date": "2018-03-20T18:58:55Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Emanuele Zappala\n    "
+        ]
+    },
+    {
+        "title": "On the Classification of Topological Quandles",
+        "link": "http://arxiv.org/abs/1803.00671v1",
+        "summary": "  We investigate the classification of topological quandles on some simple\nmanifolds. Precisely we classify all Alexander quandle structures, up to\nisomorphism, on the real line and the unit circle. For the closed unit interval\n$[0, 1]$, we conjecture that there exists only one topological quandle\nstructure on it, i.e. the trivial one. Some evidences are provided to support\nour conjecture.\n",
+        "date": "2018-03-02T00:30:27Z",
+        "authors": [
+            "\n      Zhiyun Cheng\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Boris Shekhtman\n    "
+        ]
+    },
+    {
+        "title": "Nodal solutions for elliptic equation involving the GJMS operators on\n  compact manifolds",
+        "link": "http://arxiv.org/abs/1712.09069v1",
+        "summary": "  In this paper we investigate the existence of nodal solutions to elliptic\nproblem involving the GJMS operators on Riemannian manifold with boundary\n",
+        "date": "2017-12-25T13:59:13Z",
+        "authors": [
+            "\n      Mohamed Bekiri\n    ",
+            "\n      Mohammed Benalili\n    "
+        ]
+    },
+    {
+        "title": "Robustesse de la stabilité globale asymptotique des équilibres pour\n  les systèmes dynamiques dissipatifs perturbés",
+        "link": "http://arxiv.org/abs/1710.03980v1",
+        "summary": "  In this paper, we'll show the robustness of global stability for perturbed\ndissipative dynamical systems.\n",
+        "date": "2017-10-11T09:48:58Z",
+        "authors": [
+            "\n      Mohammed Amine Hamra\n    ",
+            "\n      Mohammed Hamra\n    "
+        ]
+    },
+    {
+        "title": "Shuffle quadri-algebra and concatenation",
+        "link": "http://arxiv.org/abs/1707.03766v2",
+        "summary": "  In this article, we study the shuffle quadri-algebra H. We prove the\nexistence of some relations between quadri-algebra laws which constitute\nshuffle product, the concatenation product and the deconcatenation coproduct.\nWe also show that the underlying shuffle algebra has two module-algebra\nstructures on itself.\n",
+        "date": "2017-07-12T15:39:43Z",
+        "authors": [
+            "\n      Mohamed Belhaj Mohamed\n    ",
+            "\n      Dominique Manchon\n    "
+        ]
+    },
+    {
+        "title": "Foundations of the Colored Jones Polynomial of singular knots",
+        "link": "http://arxiv.org/abs/1705.02446v3",
+        "summary": "  This article gives the foundations of the colored Jones polynomial for\nsingular knots. We extend Masbum and Vogel's algorithm to compute the colored\nJones polynomial for any singular knot. We also introduce the tail of the\ncolored Jones polynomial of singular knots and use its stability properties to\nprove a false theta function identity that goes back to Ramanujan.\n",
+        "date": "2017-05-06T05:10:51Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    "
+        ]
+    },
+    {
+        "title": "Ternary and $n$-ary $f$-distributive Structures",
+        "link": "http://arxiv.org/abs/1704.08407v1",
+        "summary": "  We introduce and study ternary $f$-distributive structures, Ternary\n$f$-quandles and more generally their higher $n$-ary analogues. A\nclassification of ternary $f$-quandles is provided in low dimensions. Moreover,\nwe study extension theory and introduce a cohomology theory for ternary, and\nmore generally $n$-ary, $f$-quandles. Furthermore, we give some computational\nexamples.\n",
+        "date": "2017-04-27T01:51:14Z",
+        "authors": [
+            "\n      Indu R. U. Churchill\n    ",
+            "\n      M. Elhamdadi\n    ",
+            "\n      M. Green\n    ",
+            "\n      A. Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "Quasi-trivial Quandles and Biquandles, Cocycle Enhancements and\n  Link-Homotopy of Pretzel links",
+        "link": "http://arxiv.org/abs/1704.01224v3",
+        "summary": "  We investigate some algebraic structures called quasi-trivial quandles and we\nuse them to study link-homotopy of pretzel links. Precisely, a necessary and\nsufficient condition for a pretzel link with at least two components being\ntrivial under link-homotopy is given. We also generalize the quasi-trivial\nquandle idea to the case of biquandles and consider enhancement of the\nquasi-trivial biquandle cocycle counting invariant by quasi-trivial biquandle\ncocycles, obtaining invariants of link-homotopy type of links analogous to the\nquasi-trivial quandle cocycle invariants in Ayumu Inoue's article\narXiv:1205.5891.\n",
+        "date": "2017-04-05T00:13:03Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Minghui Liu\n    ",
+            "\n      Sam Nelson\n    "
+        ]
+    },
+    {
+        "title": "Wave kernel for the Schrodinger operator with a Liouville potential",
+        "link": "http://arxiv.org/abs/1703.07420v1",
+        "summary": "  In this note we give an explicit formula for the wave equation associated to\nthe Schrodinger operator with a Liouville Potential with applications to the\ntelegraph equation as well as the wave equation on the hyperbolic plane\n",
+        "date": "2017-03-15T22:20:35Z",
+        "authors": [
+            "\n      Yehdhih Mohamed Abdelhaye\n    ",
+            "\n      Badahi Mohamed\n    ",
+            "\n      Mohamed Vall Ould Moustapha\n    "
+        ]
+    },
+    {
+        "title": "Wave Equations with three-inverse square potential on $R_+^3$",
+        "link": "http://arxiv.org/abs/1703.04578v1",
+        "summary": "  In this note we give explicit solutions to the wave equation associated to\nthe Schr\\\"odinger operator with three-inverse square potential on $R_+^3$\n",
+        "date": "2017-03-12T21:22:46Z",
+        "authors": [
+            "\n      Yehdhih Mohamed Abdelhaye\n    ",
+            "\n      Badahi Mohamed\n    ",
+            "\n      Mohamed Vall Ould Moustapha\n    "
+        ]
+    },
+    {
+        "title": "Generating sets of Reidemeister moves of oriented singular links and\n  quandles",
+        "link": "http://arxiv.org/abs/1702.01150v2",
+        "summary": "  We give a generating set of the generalized Reidemeister moves for oriented\nsingular links. We use it to introduce an algebraic structure arising from the\nstudy of oriented singular knots. We give some examples, including some\nnon-isomorphic families of such structures over non-abelian groups. We show\nthat the set of colorings of a singular knot by this new structure is an\ninvariant of oriented singular knots and use it to distinguish some singular\nlinks.\n",
+        "date": "2017-02-03T20:42:55Z",
+        "authors": [
+            "\n      Khaled Bataineh\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    ",
+            "\n      William Youmans\n    "
+        ]
+    },
+    {
+        "title": "The Cocycle structure of the Alexander $f$-quandles on finite fields",
+        "link": "http://arxiv.org/abs/1612.08968v2",
+        "summary": "  We determine the second, third, and fourth cohomology groups of Alexander\n$f$-quandles of the form $\\mathbb{F}_q[T,S]/ (T-\\omega, S-\\beta)$, where\n$\\mathbb{F}_q$ denotes the finite field of order $q$, $\\omega \\in\n\\mathbb{F}_q\\setminus \\{0,1\\}$, and $\\beta \\in \\mathbb{F}_q$\n",
+        "date": "2016-12-28T19:54:04Z",
+        "authors": [
+            "\n      Indu Rasika Churchill\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Neranga Fernando\n    "
+        ]
+    },
+    {
+        "title": "On Rational Knots and Links in the Solid Torus",
+        "link": "http://arxiv.org/abs/1611.05945v5",
+        "summary": "  We introduce the notion of rational links in the solid torus. We show that\nrational links in the solid torus are fully characterized by rational tangles,\nand hence by the continued fraction of the rational tangle. Furthermore, we\ngeneralize this by giving an infinite family of ambient isotopy invariants of\ncolored diagrams in the Kauffman bracket skein module of an oriented surface.\n",
+        "date": "2016-11-18T01:30:06Z",
+        "authors": [
+            "\n      Khaled Bataineh\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    "
+        ]
+    },
+    {
+        "title": "Finitely stable racks and rack representations",
+        "link": "http://arxiv.org/abs/1611.04453v2",
+        "summary": "  We define a new class of racks, called finitely stable racks, which, to some\nextent, share various flavors with Abelian groups. Characterization of finitely\nstable Alexander quandles is established. Further, we study twisted rack\ndynamical systems, construct their cross-products, and introduce representation\ntheory of racks and quandles. We prove several results on the {\\em strong}\nrepresentations of finite connected involutive racks analogous to the\nproperties of finite Abelian groups. Finally, we define the {\\em Pontryagin}\ndual of a rack as an Abelian group which, in the finite involutive connected\ncase, coincides with the set of its strong irreducible representations.\n",
+        "date": "2016-11-14T16:46:28Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      El-kaïoum M. Moutuou\n    "
+        ]
+    },
+    {
+        "title": "Singular Knots and Involutive Quandles",
+        "link": "http://arxiv.org/abs/1608.08163v6",
+        "summary": "  The aim of this paper is to define certain algebraic structures coming from\ngeneralized Reidemeister moves of singular knot theory. We give examples, show\nthat the set of colorings by these algebraic structures is an invariant of\nsingular links. As an application we distinguish several singular knots and\nlinks.\n",
+        "date": "2016-08-29T18:12:57Z",
+        "authors": [
+            "\n      Indu R. U. Churchill\n    ",
+            "\n      M. Elhamdadi\n    ",
+            "\n      M. Hajij\n    ",
+            "\n      Sam Nelson\n    "
+        ]
+    },
+    {
+        "title": "$f$-Racks, $f$-Quandles, their Extensions and Cohomology",
+        "link": "http://arxiv.org/abs/1606.00353v2",
+        "summary": "  The purpose of this paper is to introduce and study the notions of $f$-rack\nand $f$-quandle which are obtained by twisting the usual equational identities\nby a map. We provide some key constructions, examples and classification of low\norder $f$-quandles. Moreover, we define modules over $f$-racks, discuss\nextensions and define a cohomology complex for $f$-quandles.\n",
+        "date": "2016-06-01T16:41:31Z",
+        "authors": [
+            "\n      Indu R. U. Churchill\n    ",
+            "\n      M. Elhamdadi\n    ",
+            "\n      M. Green\n    ",
+            "\n      A. Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "Twist Regions and Coefficients Stability of the Colored Jones Polynomial",
+        "link": "http://arxiv.org/abs/1605.04972v3",
+        "summary": "  We prove that the coefficients of the colored Jones polynomial of alternating\nlinks stabilize under increasing the number of twists in the twist regions of\nthe link diagram. This gives us an infinite family of $q$-power series derived\nfrom the colored Jones polynomial parametrized by the color and the twist\nregions of the alternating link diagram.\n",
+        "date": "2016-05-16T22:26:20Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    ",
+            "\n      Masahico Saito\n    "
+        ]
+    },
+    {
+        "title": "The Colored Jones Polynomial of Singular Knots",
+        "link": "http://arxiv.org/abs/1602.08628v2",
+        "summary": "  We generalize the colored Jones polynomial to $4$-valent graphs. This\ngeneralization is given as a sequence of invariants in which the first term is\na one variable specialization of the Kauffman-Vogel polynomial. We use the\ninvariant we construct to give a sequence of singular braid group\nrepresentations.\n",
+        "date": "2016-02-27T19:00:06Z",
+        "authors": [
+            "\n      Khaled Bataineh\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    "
+        ]
+    },
+    {
+        "title": "Pretzel Knots and q-Series",
+        "link": "http://arxiv.org/abs/1512.00129v4",
+        "summary": "  The tail of the colored Jones polynomial of an alternating link is a\n$q$-series invariant whose first $n$ terms coincide with the first $n$ terms of\nthe $n$-th colored Jones polynomial. Recently, it has been shown that the tail\nof the colored Jones polynomial of torus knots give rise to Ramanujan type\nidentities. In this paper, we study $q$-series identities coming from the\ncolored Jones polynomial of pretzel knots. We prove a false theta function\nidentity that goes back to Ramanujan and we give a natural generalization of\nthis identity using the tail of the colored Jones polynomial of Pretzel knots.\nFurthermore, we compute the tail for an infinite family of Pretzel knots and\nrelate it to false theta function-type identities.\n",
+        "date": "2015-12-01T03:11:47Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Mustafa Hajij\n    "
+        ]
+    },
+    {
+        "title": "Foundations of topological racks and quandles",
+        "link": "http://arxiv.org/abs/1506.00084v1",
+        "summary": "  We give a foundational account on topological racks and quandles.\nSpecifically, we define the notions of ideals, kernels, units, and inner\nautomorphism group in the context of topological racks. Further, we investigate\ntopological rack modules and principal rack bundles. Central extensions of\ntopological racks are then introduced providing a first step towards a general\ncontinuous cohomology theory for topological racks and quandles.\n",
+        "date": "2015-05-30T07:22:38Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      El-kaïoum M. Moutuou\n    "
+        ]
+    },
+    {
+        "title": "Ternary Distributive Structures and Quandles",
+        "link": "http://arxiv.org/abs/1403.7099v1",
+        "summary": "  We introduce a notion of ternary distributive algebraic structure, give\nexamples, and relate it to the notion of a quandle. Classification is given for\nlow order structures of this type. Constructions of such structures from\nternary bialgebras are provided. We also describe ternary distributive\nalgebraic structures coming from groups and give examples from vector spaces\nwhose bases are elements of a finite ternary distributive set. We introduce a\ncohomology theory that is analogous to Hochschild cohomology and relate it to a\nformal deformation theory of these structures.\n",
+        "date": "2014-03-27T15:51:48Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Matthew Green\n    ",
+            "\n      Abdenacer Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "Quandle Colorings of Knots and Applications",
+        "link": "http://arxiv.org/abs/1312.3307v2",
+        "summary": "  We present a set of 26 finite quandles that distinguish (up to reversal and\nmirror image) by number of colorings, all of the 2977 prime oriented knots with\nup to 12 crossings. We also show that 1058 of these knots can be distinguished\nfrom their mirror images by the number of colorings by quandles from a certain\nset of 23 finite quandles. We study the colorings of these 2977 knots by all of\nthe 431 connected quandles of order at most 35 found by L. Vendramin. Among\nother things, we collect information about quandles that have the same number\nof colorings for all of the 2977 knots. For example, we prove that if $Q$ is a\nsimple quandle of prime power order then $Q$ and the dual quandle $Q^*$ of $Q$\nhave the same number of colorings for all knots and conjecture that this holds\nfor all Alexander quandles $Q$. We study a knot invariant based on a quandle\nhomomorphism $f:Q_1\\to Q_0$. We also apply the quandle colorings we have\ncomputed to obtain some new results for the bridge index, the Nakanishi index,\nthe tunnel number, and the unknotting number. In an appendix we discuss various\nproperties of the quandles in Vendramin's list. Links to the data computed and\nvarious programs in C, GAP and Maple are provided.\n",
+        "date": "2013-12-11T20:25:07Z",
+        "authors": [
+            "\n      W. Edwin Clark\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Timothy Yeatman\n    "
+        ]
+    },
+    {
+        "title": "Augmented Biracks and their Homology",
+        "link": "http://arxiv.org/abs/1309.1678v1",
+        "summary": "  We introduce augmented biracks and define a (co)homology theory associated to\naugmented biracks. The new homology theory extends the previously studied\nYang-Baxter homology with a combinatorial formulation for the boundary map and\nspecializes to $N$-reduced rack homology when the birack is a rack. We\nintroduce augmented birack 2-cocycle invariants of classical and virtual knots\nand links and provide examples.\n",
+        "date": "2013-09-06T15:44:00Z",
+        "authors": [
+            "\n      Jose Ceniceros\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Matthew Green\n    ",
+            "\n      Sam Nelson\n    "
+        ]
+    },
+    {
+        "title": "Distributivity in Quandles and Quasigroups",
+        "link": "http://arxiv.org/abs/1209.6518v1",
+        "summary": "  Distributivity in algebraic structures appeared in many contexts such as in\nquasigroup theory, semigroup theory and algebraic knot theory. In this paper we\ngive a survey of distributivity in quasigroup theory and in quandle theory.\n",
+        "date": "2012-09-28T13:43:11Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n      University of South Florida\n    "
+        ]
+    },
+    {
+        "title": "Hom-quasi-bialgebras",
+        "link": "http://arxiv.org/abs/1209.0988v1",
+        "summary": "  The purpose of this paper is to give a general survey of Hom-bialgebras,\nwhich are bialgebra-type structures where the identities are twisted by a\nmorphism, and to extend the concept of quasi-bialgebra to Hom-setting. We\nprovide some key constructions and generalize the concept of gauge\ntransformation and Drinfeld's twists to this type of generalized\nquasi-bialgebras. Moreover, we provide an example of twisted quantum double.\n",
+        "date": "2012-09-05T14:06:08Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Abdenacer Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "Connected Quandles Associated with Pointed Abelian Groups",
+        "link": "http://arxiv.org/abs/1107.5777v1",
+        "summary": "  A quandle is a self-distributive algebraic structure that appears in\nquasi-group and knot theories. For each abelian group A and c \\in A we define a\nquandle G(A, c) on \\Z_3 \\times A. These quandles are generalizations of a class\nof non-medial Latin quandles defined by V. M. Galkin so we call them Galkin\nquandles. Each G(A, c) is connected but not Latin unless A has odd order. G(A,\nc) is non-medial unless 3A = 0. We classify their isomorphism classes in terms\nof pointed abelian groups, and study their various properties. A family of\nsymmetric connected quandles is constructed from Galkin quandles, and some\naspects of knot colorings by Galkin quandles are also discussed.\n",
+        "date": "2011-07-28T17:33:09Z",
+        "authors": [
+            "\n      W. Edwin Clark\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Xiang-dong Hou\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Timothy Yeatman\n    "
+        ]
+    },
+    {
+        "title": "Riesz transforms for Dunkl transform",
+        "link": "http://arxiv.org/abs/1105.1427v2",
+        "summary": "  In this paper we obtain the $L^p$-boundedness of Riesz transforms for Dunkl\ntransform for all $1<p<\\infty$.\n",
+        "date": "2011-05-07T09:00:11Z",
+        "authors": [
+            "\n      Béchir Amri\n    ",
+            "\n      Mohamed Sifi\n    "
+        ]
+    },
+    {
+        "title": "Automorphism groups of Quandles",
+        "link": "http://arxiv.org/abs/1012.5291v1",
+        "summary": "  We prove that the automorphism group of the dihedral quandle with n elements\nis isomorphic to the affine group of the integers mod n, and also obtain the\ninner automorphism group of this quandle. In [9], automorphism groups of\nquandles (up to isomorphisms) of order less than or equal to 5 were given. With\nthe help of the software Maple, we compute the inner and automorphism groups of\nall seventy three quandles of order six listed in the appendix of [4]. Since\ncomputations of automorphisms of quandles relates to the problem of\nclassification of quandles, we also describe an algorithm implemented in C for\ncomputing all quandles (up to isomorphism) of order less than or equal to nine.\n",
+        "date": "2010-12-23T20:35:01Z",
+        "authors": [
+            "\n      M. Elhamdadi\n    ",
+            "\n      J. MacQuarrie\n    ",
+            "\n      R. Restrepo\n    "
+        ]
+    },
+    {
+        "title": "N-Degeneracy in rack homology and link invariants",
+        "link": "http://arxiv.org/abs/1007.3550v2",
+        "summary": "  The aim of this paper is to define a homology theory for racks with finite\nrank N and use it to define invariants of knots generalizing the CJKLS\n2-cocycle invariants related to the invariants defined in [15]. For this\npurpose, we prove that N -degenerate chains form a sub-complex of the classical\ncomplex defining rack homology. If a rack has rack rank N = 1 then it is a\nquandle and our homology theory coincides with the CKJLS homology theory [6].\nNontrivial cocycles are used to define invariants of knots and examples of\ncalculations for classical knots with up to 8 crossings and classical links\nwith up to 7 crossings are provided.\n",
+        "date": "2010-07-21T01:42:47Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Sam Nelson\n    "
+        ]
+    },
+    {
+        "title": "Deformations of Hom-Alternative and Hom-Malcev algebras",
+        "link": "http://arxiv.org/abs/1006.2499v1",
+        "summary": "  The aim of this paper is to extend Gerstenhaber formal deformations of\nalgebras to the case of Hom-Alternative and Hom-Malcev algebras. We construct\ndeformation cohomology groups in low dimensions.\n  Using a composition construction, we give a procedure to provide deformations\nof alternative algebras (resp. Malcev algebras) into Hom-alternative algebras\n(resp. Hom-Malcev algebras). Then it is used to supply examples for which we\ncompute some cohomology invariants.\n",
+        "date": "2010-06-12T23:03:53Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Abdenacer Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "Combinatorial Identities Involving the Mobius Function",
+        "link": "http://arxiv.org/abs/0909.2983v2",
+        "summary": "  In this paper we derive some identities and inequalities on the M\\\"obius mu\nfunction. Our main tool is phi functions for intervals of positive integers and\ntheir unions.\n",
+        "date": "2009-09-16T11:19:10Z",
+        "authors": [
+            "\n      Mohamed El bachraoui\n    ",
+            "\n      Mohamed Salim\n    "
+        ]
+    },
+    {
+        "title": "Cohomology and Formal Deformations of Left Alternative Algebras",
+        "link": "http://arxiv.org/abs/0907.1548v1",
+        "summary": "  The purpose of this paper is to introduce an algebraic cohomology and formal\ndeformation theory of left alternative algebras. Connections to some other\nalgebraic structures are given also.\n",
+        "date": "2009-07-09T13:45:31Z",
+        "authors": [
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Abdenacer Makhlouf\n    "
+        ]
+    },
+    {
+        "title": "Cocycle Deformations of Algebraic Identities and R-matrices",
+        "link": "http://arxiv.org/abs/0802.2294v1",
+        "summary": "  For an arbitrary identity L=R between compositions of maps L and R on tensors\nof vector spaces V, a general construction of a 2-cocycle condition is given.\nThese 2-cocycles correspond to those obtained in deformation theories of\nalgebras. The construction is applied to a canceling pairings and copairings,\nwith explicit examples with calculations. Relations to the Kauffman bracket and\nknot invariants are discussed.\n",
+        "date": "2008-02-15T22:57:10Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Alabama\n    ",
+            "\n      Alissa Crans\n      Loyola Marymount Univ.\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Florida\n    ",
+            "\n      Masahico Saito\n      Univ. of South Florida\n    "
+        ]
+    },
+    {
+        "title": "Cohomology of Frobenius Algebras and the Yang-Baxter Equation",
+        "link": "http://arxiv.org/abs/0801.2567v1",
+        "summary": "  A cohomology theory for multiplications and comultiplications of Frobenius\nalgebras is developed in low dimensions in analogy with Hochschild cohomology\nof bialgebras based on deformation theory. Concrete computations are provided\nfor key examples.\n  Skein theoretic constructions give rise to solutions to the Yang-Baxter\nequation using multiplications and comultiplications of Frobenius algebras, and\n2-cocycles are used to obtain deformations of R-matrices thus obtained.\n",
+        "date": "2008-01-16T20:35:36Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Alabama\n    ",
+            "\n      Alissa S. Crans\n      Loyola Marymount Univ\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Fla.\n    ",
+            "\n      Enver Karadayi\n      Univ. of South Fla.\n    ",
+            "\n      Masahico Saito\n      Univ. of South Fla.\n    "
+        ]
+    },
+    {
+        "title": "Cohomology of the adjoint of Hopf algebras",
+        "link": "http://arxiv.org/abs/0705.3231v1",
+        "summary": "  A cohomology theory of the adjoint of Hopf algebras, via deformations, is\npresented by means of diagrammatic techniques. Explicit calculations are\nprovided in the cases of group algebras, function algebras on groups, and the\nbosonization of the super line. As applications, solutions to the YBE are given\nand quandle cocycles are constructed from groupoid cocycles.\n",
+        "date": "2007-05-22T18:16:02Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Alabama\n    ",
+            "\n      Alissa S. Crans\n      Loyola Marymount Univ.\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Florida\n    ",
+            "\n      Masahico Saito\n      Univ. of South Florida\n    "
+        ]
+    },
+    {
+        "title": "Tangle embeddings and quandle cocycle invariants",
+        "link": "http://arxiv.org/abs/math/0703611v1",
+        "summary": "  To study embeddings of tangles in knots, we use quandle cocycle invariants.\nComputations are carried out for the tables of knots and tangles, to\ninvestigate which tangles may or may not embed in knots in the tables.\n",
+        "date": "2007-03-20T20:03:06Z",
+        "authors": [
+            "\n      Kheira Ameur\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Tom Rose\n    ",
+            "\n      Masahico Saito\n    ",
+            "\n      Chad Smudde\n    "
+        ]
+    },
+    {
+        "title": "Virtual Knot Invariants from Group Biquandles and Their Cocycles",
+        "link": "http://arxiv.org/abs/math/0703594v1",
+        "summary": "  A group-theoretical method, via Wada's representations, is presented to\ndistinguish Kishino's virtual knot from the unknot. Biquandles are constructed\nfor any group using Wada's braid group representations. Cocycle invariants for\nthese biquandles are studied. These invariants are applied to show the\nnon-existence of Alexander numberings and checkerboard colorings.\n",
+        "date": "2007-03-20T14:57:21Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Ala.\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Fla.\n    ",
+            "\n      Masahico Saito\n      Univ. of South Fla.\n    ",
+            "\n      Daniel S. Silver\n      Univ. of South Ala.\n    ",
+            "\n      Susan G. Williams\n      Univ. of South Ala.\n    "
+        ]
+    },
+    {
+        "title": "Cohomology of Categorical Self-Distributivity",
+        "link": "http://arxiv.org/abs/math/0607417v2",
+        "summary": "  We define self-distributive structures in the categories of coalgebras and\ncocommutative coalgebras. We obtain examples from vector spaces whose bases are\nthe elements of finite quandles, the direct sum of a Lie algebra with its\nground field, and Hopf algebras. The self-distributive operations of these\nstructures provide solutions of the Yang--Baxter equation, and, conversely,\nsolutions of the Yang--Baxter equation can be used to construct\nself-distributive operations in certain categories.\n  Moreover, we present a cohomology theory that encompasses both Lie algebra\nand quandle cohomologies, is analogous to Hochschild cohomology, and can be\nused to study deformations of these self-distributive structures. All of the\nwork here is informed via diagrammatic computations.\n",
+        "date": "2006-07-18T18:16:12Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. South Alabama\n    ",
+            "\n      Alissa Crans\n      Loyola Marymount Univ.\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. South Fla.\n    ",
+            "\n      Masahico Saito\n      Univ. South Fla.\n    "
+        ]
+    },
+    {
+        "title": "Anneaux d'Endomorphismes de modules de Drinfeld de rang 2",
+        "link": "http://arxiv.org/abs/math/0606416v1",
+        "summary": "  We discuss many analogy points with the elliptic curves. more precisely, we\nstudy the characteristic polynomial of a Drinfeld module of rank 2 and use it\nto calculate the number of isogeny classes for such modules.\n",
+        "date": "2006-06-17T06:19:15Z",
+        "authors": [
+            "\n      Mohamed Saadbouh Mohamed Ahmed\n    "
+        ]
+    },
+    {
+        "title": "A lower bound for the number of Reidemeister moves of type III",
+        "link": "http://arxiv.org/abs/math/0501490v1",
+        "summary": "  We study the number of Reidemeister type III moves using Fox n-colorings of\nknot diagrams.\n",
+        "date": "2005-01-27T15:07:05Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Alabama\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Florida\n    ",
+            "\n      Masahico Saito\n      Univ. of South Florida\n    ",
+            "\n      Shin Satoh\n      Chiba University\n    "
+        ]
+    },
+    {
+        "title": "Cocycle Knot Invariants from Quandle Modules and Generalized Quandle\n  Cohomology",
+        "link": "http://arxiv.org/abs/math/0306068v2",
+        "summary": "  Three new knot invariants are defined using cocycles of the generalized\nquandle homology theory that was proposed by Andruskiewitsch and Gra\\~na. We\nspecialize that theory to the case when there is a group action on the\ncoefficients.\n  First, quandle modules are used to generalize Burau representations and\nAlexander modules for classical knots. Second, 2-cocycles valued in non-abelian\ngroups are used in a way similar to Hopf algebra invariants of classical knots.\nThese invariants are shown to be of quantum type. Third, cocycles with group\nactions on coefficient groups are used to define quandle cocycle invariants for\nboth classical knots and knotted surfaces. Concrete computational methods are\nprovided and used to prove non-invertibility for a large family of knotted\nsurfaces. In the classical case, the invariant can detect the chirality of\n3-colorable knots in a number of cases.\n",
+        "date": "2003-06-03T16:56:06Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Alabama\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Florida\n    ",
+            "\n      Matias Graña\n      Universidad de Buenos Aires\n    ",
+            "\n      Masahico Saito\n      Univ. of South Florida\n    "
+        ]
+    },
+    {
+        "title": "Homology Theory for the Set-Theoretic Yang-Baxter Equation and Knot\n  Invariants from Generalizations of Quandles",
+        "link": "http://arxiv.org/abs/math/0206255v2",
+        "summary": "  A homology theory is developed for set-theoretic Yang-Baxter equations, and\nknot invariants are constructed by generalized colorings by biquandles and\nYang-Baxter cocycles.\n",
+        "date": "2002-06-25T15:27:58Z",
+        "authors": [
+            "\n      J. Scott Carter\n      University of South Alabama\n    ",
+            "\n      Mohamed Elhamdadi\n      University of South Florida\n    ",
+            "\n      Masahico Saito\n      University of South Florida\n    "
+        ]
+    },
+    {
+        "title": "Twisted quandle homology theory and cocycle knot invariants",
+        "link": "http://arxiv.org/abs/math/0108051v2",
+        "summary": "  The quandle homology theory is generalized to the case when the coefficient\ngroups admit the structure of Alexander quandles, by including an action of the\ninfinite cyclic group in the boundary operator. Theories of Alexander\nextensions of quandles in relation to low dimensional cocycles are developed in\nparallel to group extension theories for group cocycles. Explicit formulas for\ncocycles corresponding to extensions are given, and used to prove\nnon-triviality of cohomology groups for some quandles. The corresponding\ngeneralization of the quandle cocycle knot invariants is given, by using the\nAlexander numbering of regions in the definition of state-sums. The invariants\nare used to derive information on twisted cohomology groups.\n",
+        "date": "2001-08-07T19:57:17Z",
+        "authors": [
+            "\n      J. Scott Carter\n    ",
+            "\n      Mohamed Elhamdadi\n    ",
+            "\n      Masahico Saito\n    "
+        ]
+    },
+    {
+        "title": "Extensions of Quandles and Cocycle Knot Invariants",
+        "link": "http://arxiv.org/abs/math/0107021v1",
+        "summary": "  Quandle cocycles are constructed from extensions of quandles. The theory is\nparallel to that of group cohomology and group extensions. An interpretation of\nquandle cocycle invariants as obstructions to extending knot colorings is\ngiven, and is extended to links component-wise.\n",
+        "date": "2001-07-03T18:01:00Z",
+        "authors": [
+            "\n      J. Scott Carter\n      Univ. of South Alabama\n    ",
+            "\n      Mohamed Elhamdadi\n      Univ. of South Florida\n    ",
+            "\n      Marina Appiou Nikiforou\n      University of South Florida\n    ",
+            "\n      Masahico Saito\n      University of South Florida\n    "
+        ]
+    }
+]
